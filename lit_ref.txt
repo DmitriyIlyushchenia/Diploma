@@ -1,7 +1,21 @@
 [1] Банковский кодекс РБ
 
-[2] https://vk.com/away.php?to=http%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F4624980%2F%3Freload%3Dtrue%26arnumber%3D4624980 
+[2] Кабушкин, С.Н. Управление банковским кредитным риском: учеб. пособие/ С.Н. Кабушкин. – 4-е изд., стер. –
+Минск: Новое знание, 2007. 
+
+[3] Инструкция о порядке предоставления (размещения) банками денежных средств в форме кредита и их возврата:
+утв. Правлением Нац. банка Респ. Беларусь 30.12.03: в ред. постановления Правления Нац. банка Респ. Беларусь от 18
+апреля 2013 № 230 // Консультант Плюс: Беларусь. Технология 3000 [Электронный ресурс] / ООО ?ЮрСпектр?, Нац.
+центр правовой информ. Респ. Беларусь. – Минск, 2014 (стр. 179)
+
+[4] https://www.cbr.ru/publ/MoneyAndCredit/snider_10_11.pdf
+
+[5] Оценка заемщика: Кредитный скоринг и экспертная оценка кредитоспособности заемщика/ Мир процентов.RU
+[Электронный ресурс]. – 2015. – Режим доступа:http://mir-procentov.ru/potrebitelskie-kredity/poryadok-polucheniya-kreditav-banke/kreditosposobnost-zaemshchika/sistemy-otsenki-kreditosposobnosti-zaemshchika.html.
+– Дата доступа: 16.03.2015.
+
+[6] https://vk.com/away.php?to=http%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F4624980%2F%3Freload%3Dtrue%26arnumber%3D4624980 
 про эксп. систему CEEES 
 
-[3] https://vk.com/away.php?to=http%3A%2F%2Fwww.magnanimitas.cz%2FADALTA%2F0101%2Fpapers%2Fjasinski.pdf
+[7] https://vk.com/away.php?to=http%3A%2F%2Fwww.magnanimitas.cz%2FADALTA%2F0101%2Fpapers%2Fjasinski.pdf
 про CreditExpert
